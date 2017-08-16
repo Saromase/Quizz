@@ -1,1 +1,1 @@
-# Quizz
+# Quizz by Romain Seite
